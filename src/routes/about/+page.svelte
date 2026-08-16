@@ -15,20 +15,21 @@
     <b class="mt-4 text-xl">Mechanical</b>
     <ul>
 
-        <li>Erwin, 11th Grade</li>
-
+        <li>Erwin, 12th Grade - Co-Captain</li>
+        <li>Allen, 12th Grade - Co-Captain</li>
     </ul>
 
     <b class="mt-4  text-xl">Programming</b>
     <ul>
-        <li>Allen, 11th Grade </li>
-        <li>Ted, Freshman</li>
+        <li>Ted, 10th grade</li>
+        <li>Quincy, 12th Grade</li>
+        <li>Micheal, 12th Grade</li>
     </ul>
 
     <b class="mt-4 text-xl">Outreach</b>
     <ul>
-        <li>Vedika, 11th Grade</li>
-        <li>Kireeti, 11th Grade</li>
+        <li>Vedika, 12th Grade - Co-Captain</li>
+        <li>Kireeti, 12th Grade - Co-Captain</li>
     </ul>
 
     <h1 class="text-3xl font-semibold mt-4">Upcoming Events</h1>
