@@ -30,6 +30,7 @@
         { name: "CENTERSTAGE", menus: ["seasons"], href: "/centerstage"},
         { name: "Power Play", menus: ["seasons"], href: "/powerplay"},
         { name: "Freight Frenzy", menus: ["seasons"], href: "/freightfrenzy"}
+        { name: "Decode", menus: ["seasons"], href: "/decode"}
     ];
 
     let thingWidth = 1.5;
